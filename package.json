@@ -1,0 +1,22 @@
+{
+  "name": "requestexercices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbolduc2354/requestExercices.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbolduc2354/requestExercices/issues"
+  },
+  "homepage": "https://github.com/pbolduc2354/requestExercices#readme",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
